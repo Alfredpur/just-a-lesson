@@ -1,0 +1,22 @@
+p{
+    text-align: center;
+    color: blue;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    letter-spacing: -1px;
+}
+
+#para{
+    color: red;
+}
+
+h2, h3, h4{
+    text-align: center;
+    color: blue;
+}
+.better{
+    text-align: end;
+}
